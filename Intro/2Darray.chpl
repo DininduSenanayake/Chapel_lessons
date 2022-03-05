@@ -15,4 +15,4 @@ for i in 1..3 do{
 	writeln();
 }
 
-#check commit from .dev web
+//check commit from .dev web
